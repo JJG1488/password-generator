@@ -1,0 +1,19 @@
+.container {
+    min-height: 400px;
+    border: red solid;
+
+}
+
+.row {
+    border: green solid;
+
+}
+
+.col {
+    min-height: 400px;
+    border: yellow solid;
+}
+
+.generate-button {
+    align-items: center;
+}
