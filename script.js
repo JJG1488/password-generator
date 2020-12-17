@@ -37,7 +37,7 @@ function generatePassword() {
     // -------------------------------------------------------------------------------------------
     // LOCAL VARIABLES
     // -------------------------------------------------------------------------------------------
-    var userInput = [prompt("How long would you like your password to be?")];
+    var userInput = [prompt("How long would you like your password to be? \n (Enter number(s) only)")];
 
     // console.log(userInput);
     var passwordChoices = [];
