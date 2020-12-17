@@ -8,6 +8,8 @@ function writePassword() {
 
     passwordText.value = password;
 
+    alert("Your password is " + passwordText.value);
+
 }
 
 // Add event listener to generate button
