@@ -66,11 +66,11 @@ function generatePassword() {
 
             console.log(passwordChoices);
 
-            alert("lowercased letters will be included");
+            alert("Lowercased letters will be included.");
 
         } else {
 
-            alert("lowercased letters will NOT be included");
+            alert("Lowercased letters will NOT be included.");
         }
 
         // -------------------------------------------------------------------------------------------
@@ -85,11 +85,11 @@ function generatePassword() {
 
             console.log(passwordChoices);
 
-            alert("uppercased letters will be included");
+            alert("Uppercased letters will be included.");
 
         } else {
 
-            alert("uppercased will NOT be included");
+            alert("Uppercased will NOT be included.");
         }
 
         // -------------------------------------------------------------------------------------------
@@ -104,13 +104,13 @@ function generatePassword() {
 
             console.log(passwordChoices);
 
-            alert("Numbers will be included");
+            alert("Numbers will be included.");
 
         }
 
         else {
 
-            alert("Numbers will NOT be included");
+            alert("Numbers will NOT be included.");
 
         }
 
@@ -126,17 +126,17 @@ function generatePassword() {
 
             console.log(passwordChoices);
 
-            alert("Special charcters will be included");
+            alert("Special charcters will be included.");
 
         } else {
 
-            alert("Special charcters will NOT be included");
+            alert("Special charcters will NOT be included.");
 
         }
 
         if (numericNum == false && upperCase == false && lowerCase == false && specialChar == false) {
 
-            alert("At least one selection has to be made for password to generate");
+            alert("At least one selection has to be made for password to generate.");
 
             userInput = [];
 
@@ -145,7 +145,7 @@ function generatePassword() {
 
     } else {
 
-        alert("Password must be at least 8 characters and less than 128 charcters");
+        alert("Password must be at least 8 characters and less than 128 charcters.");
 
         userInput = [];
 
