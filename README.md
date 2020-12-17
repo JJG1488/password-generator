@@ -4,7 +4,9 @@
 
 ## Preview
 
-![passGenImg](./password-gen-screenshot.png)
+![passGenImg](./assets/password-gen-screenshot.png)
+
+![liveLink](url https://jjg1488.github.io/password-generater/)
 
 ---
 
