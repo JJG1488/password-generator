@@ -1,8 +1,8 @@
-// Assignment Code
+// HTML Element Selector Code
 var generateBtn = document.querySelector("#generate");
 
-// Write password to the #password input
-function writePassword() {
+// Wrote password to the #password input
+function writePassword(password) {
     var password = generatePassword();
     var passwordText = document.querySelector("#password");
 
@@ -12,7 +12,7 @@ function writePassword() {
 
 }
 
-// Add event listener to generate button
+// Added event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 
 // -------------------------------------------------------------------------------------------
