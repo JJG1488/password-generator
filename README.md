@@ -2,6 +2,12 @@
 
 ---
 
+## Preview
+
+![passGenImg](./password-gen-screenshot.png)
+
+---
+
 ## Description
 
 This webpage displays an example of how JavaScript is used to compare different user inputs that can result in different outcomes based on those inputs.
