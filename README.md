@@ -1,4 +1,4 @@
-# Password-Generater
+# Password-Generator
 
 ---
 
@@ -6,7 +6,8 @@
 
 ![passGenImg](./assets/password-gen-screenshot.png)
 
-![liveLink](url https://jjg1488.github.io/password-generater/)
+![liveLink](url https://jjg1488.github.io/password-generator/)
+
 
 ---
 
