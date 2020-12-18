@@ -8,7 +8,6 @@
 
 ![liveLink](url https://jjg1488.github.io/password-generator/)
 
-
 ---
 
 ## Description
@@ -63,6 +62,6 @@ In this project I learned that there is more than one approach to do the same th
 
 ## Take away
 
-JavaScript is not complicted to implement as long as the logic behind it is clear and concise. 
+JavaScript is not complicated to implement as long as the logic behind it is clear and concise.
 
 ---
